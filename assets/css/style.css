@@ -61,11 +61,11 @@ ul li:last-child {
 .main-container {
     display: flex;
     justify-content: center;
-    width: 90%;
+    width: 60%;
     max-width: 1200px;
-    min-height: 80vh;
+    min-height: 70vh;
     margin: 50px auto;
-    padding: 20px;
+    padding: 10px;
     background: linear-gradient(0deg, rgba(20, 68, 128, 0.3), rgba(20, 68, 128, 0.3)),
         linear-gradient(0deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05));
     border-radius: 24px;
